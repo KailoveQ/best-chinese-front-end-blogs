@@ -4,6 +4,8 @@
 
 注：博主的公司信息来自网上公开资料，仅供参考，不保证准确性。
 
+![](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/ac87a2773e9049e0986575e781f33498~tplv-k3u1fbpfcp-watermark.image)
+
 ## 个人（控制在42个以内）
 
 0. [冴羽的博客](https://github.com/mqyqingfeng/Blog)
@@ -116,4 +118,5 @@
 ##  搬运于[方方的Github](https://github.com/FrankFang/best-chinese-front-end-blogs)
 
 >由于本人水平有限，如有描述不准确的地方请给我留言，欢迎交流~
+
 ![](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/ac87a2773e9049e0986575e781f33498~tplv-k3u1fbpfcp-watermark.image)
